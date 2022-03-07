@@ -1,0 +1,59 @@
+.navbar {
+  background-color: darkred;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+}
+
+.banner {
+  background-color: darkred;
+  color: white;
+  margin-top: 50px;
+  text-align: center;
+  padding: 100px 0;
+}
+
+#small-G63amg {
+  filter: drop-shadow(1px 1px 1px 1px black);
+}
+
+.g63amg-section {
+  padding: 20px 50px;
+}
+
+#g63amg {
+  color: darkred;
+  font-size: 150px;
+}
+
+#greetings ul {
+  list-style-type: none;
+}
+
+.avatar {
+  background-image: url('../images/G63 amg.jpeg');
+  background-size: cover;
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+a.darkred {
+  color: white;
+}
